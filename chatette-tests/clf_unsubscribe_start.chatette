@@ -1,0 +1,45 @@
+|shared_aliases.chatette
+|countries.chatette
+|numbers.chatette
+|email.chatette
+
+%[& critical](60)
+	~[hi?] ~[unsubscribe], my number is ~[number].
+	~[unsubscribe], my email is ~[email]
+	~[hi?] [Please?] ~[unsubscribe] messages ~[number]
+	~[I don't want] to ~[see] any more ~[covid] updates from you so [please?] ~[unsubscribe] my number, which is ~[number].
+
+%[& Generic](60)
+	~[hi?] ~[unsubscribe], my number is ~[number].
+	~[unsubscribe?], my email is ~[email]
+
+	
+~[unsubscribe]
+	Unsubscribe me
+	please stop sending me
+	Do not send me
+	Don't send me
+	stop sending me
+	Can you not sending me
+	I wish to no longer [get|receive] so dont send me
+	stop up dating me
+	cease to update me
+	do not I [repeat| will not say it again] cesae and desist with the updates
+
+
+
+~[I don't want]
+	I don't want
+	I don't need
+	I have no use
+
+
+~[see]	
+	see
+	get
+	receive
+	be sent 
+	
+
+
+

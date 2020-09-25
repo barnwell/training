@@ -1,0 +1,74 @@
+|shared_aliases.chatette
+|countries.chatette
+
+%[& critical](60)
+	~[What is the] ~[total] ~[covid] ~[deaths] ~[were there] ~[daterange?] [in ~[country]?]
+	
+
+
+%[& Generic](60)
+	[in ~[country]?] ~[What is the] ~[covid] ~[total?] ~[deaths]
+	~[How many] ~[total?] ~[covid] ~[deaths] have there been for ~[country] ~[daterange]?
+	How [many] [people|person] have ~[died] [globally?] ~[daterange] from ~[covid]?
+
+~[What is the]
+	Tell [me|us] the
+	what [is|are] the
+	Can you [please|kindly] let [me|us] know
+	[I|we] would [like|love] to [get|have] the 
+	Do you [know|have knowledge of] the
+	How much [is|are] the
+	What's the
+	I [want|need] the
+	Show me the
+
+	
+	
+~[How many] 
+	How many
+	kindly indicate the
+	I would like to knoe the
+	How much
+	what is the
+	Can you [please?] let me know the
+	I would like to get
+	Do you know the
+
+
+~[total]
+	confirmed
+	total
+	overall
+	sum
+	total sum
+	actual total
+	confirmed number of
+	number of
+
+
+
+~[deaths]
+	deaths
+	recovered patients
+	new cases
+	tests
+
+
+~[died]
+	passed away
+	got better
+	perished
+	died
+	recovered
+	been tested positive
+	had a positive reading
+	isolated	
+
+
+~[were there]
+	occured
+	that happened
+	have there been
+
+
+

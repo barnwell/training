@@ -1,0 +1,94 @@
+|shared_aliases.chatette
+%[& critical](60)
+	~[I am] ~[having] [symptoms|signs] of ~[covid]. How can I ~[test] to ~[confirm] if I ~[have it or not]?		
+		
+
+%[& Generic](100)
+	~[hi] ~[could] the ~[chances] of ~[me] ~[getting] this, be ~[high]
+	~[doc?] do I have that ~[covid]
+
+~[I am] 
+	I am
+	I'm
+	
+
+~[having]
+	having
+	feeling
+	getting
+	sensing
+	seeing
+	experiencing
+
+~[test]
+	test
+	get tested
+	be tested
+	be checked out
+
+
+~[confirm]
+	confirm
+	see
+	verify
+	learn
+	know
+	be sure
+	make sure
+	know
+	understand
+
+
+~[have it or not]
+	have it or not
+	have it
+	i am well as i think
+	I am healty or not
+	i am healthy
+	I should self isolate
+	I should stay away from home
+	If i should keep indoors
+
+
+~[could]
+	could
+	is it possible that
+	do you think
+	can i
+	should
+
+~[chances]
+	chances	
+	risk
+	possibility
+	probability
+
+
+~[me]
+	me
+	us
+
+~[getting]
+	contracting
+	getting
+	picking up
+	catching
+
+
+~[high]
+	high
+	very high
+	very likely
+
+~[doc]
+	doc
+	doctor
+	nurse
+	boss
+	nursy
+	Ma
+	sir
+	Madam
+	Miss
+
+	
