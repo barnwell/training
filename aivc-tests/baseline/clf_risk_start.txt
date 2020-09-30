@@ -1,0 +1,167 @@
+<!-- Generated using Chatette v1.6.2 -->
+
+## intent: critical
+- I am experiencing signs of covid 19. How can I get tested to understand if I i am well as i think?
+- I am experiencing symptoms of coronvirus. How can I be checked out to verify if I have it or not?
+- I am feeling signs of corona. How can I be tested to be sure if I I should self isolate?
+- I am feeling signs of coronvirus. How can I test to learn if I i am healthy?
+- I am feeling signs of rona. How can I be tested to understand if I I should self isolate?
+- I am getting signs of covid 19. How can I be tested to be sure if I i am healthy?
+- I am getting signs of rona. How can I test to know if I If i should keep indoors?
+- I am getting signs of rona. How can I test to understand if I i am healthy?
+- I am getting symptoms of covid 19. How can I be tested to confirm if I I am healty or not?
+- I am having signs of coronvirus. How can I be tested to know if I I should self isolate?
+- I am having signs of covid 19. How can I get tested to make sure if I I am healty or not?
+- I am having symptoms of corona. How can I get tested to verify if I I am healty or not?
+- I am having symptoms of coronvirus. How can I be tested to see if I have it or not?
+- I am having symptoms of covid 19. How can I be checked out to see if I I should self isolate?
+- I am seeing signs of corona. How can I be checked out to see if I i am well as i think?
+- I am seeing signs of coronvirus. How can I get tested to confirm if I i am well as i think?
+- I am seeing signs of rona. How can I be checked out to learn if I i am well as i think?
+- I am seeing symptoms of covid 19. How can I test to learn if I If i should keep indoors?
+- I am sensing signs of coronvirus. How can I test to understand if I i am well as i think?
+- I am sensing signs of covid 19. How can I be checked out to know if I I am healty or not?
+- I am sensing signs of covid 19. How can I get tested to make sure if I have it?
+- I am sensing symptoms of coronvirus. How can I be checked out to know if I have it?
+- I am sensing symptoms of coronvirus. How can I be checked out to make sure if I have it?
+- I am sensing symptoms of rona. How can I be checked out to verify if I have it?
+- I'm feeling signs of coronvirus. How can I test to know if I i am healthy?
+- I'm feeling symptoms of coronvirus. How can I get tested to know if I have it?
+- I'm feeling symptoms of covid 19. How can I be tested to learn if I have it or not?
+- I'm getting symptoms of covid 19. How can I be tested to verify if I i am healthy?
+- I'm having symptoms of coronvirus. How can I test to know if I i am well as i think?
+- I'm having symptoms of rona. How can I get tested to confirm if I i am well as i think?
+- I'm seeing signs of corona. How can I be checked out to learn if I I should self isolate?
+- I'm seeing signs of corona. How can I test to make sure if I I am healty or not?
+- I'm seeing symptoms of rona. How can I get tested to be sure if I have it?
+- I'm sensing symptoms of covid 19. How can I test to see if I If i should keep indoors?
+- i am feeling signs of coronvirus. How can I be checked out to make sure if I have it?
+- i am feeling signs of coronvirus. How can I be tested to learn if I i am well as i think?
+- i am feeling symptoms of coronvirus. How can I be checked out to confirm if I If i should keep indoors?
+- i am feeling symptoms of rona. How can I test to be sure if I I am healty or not?
+- i am getting signs of corona. How can I be tested to know if I have it?
+- i am getting signs of covid 19. How can I test to be sure if I I am healty or not?
+- i am having signs of corona. How can I be checked out to be sure if I If i should keep indoors?
+- i am having signs of corona. How can I test to know if I i am healthy?
+- i am having signs of coronvirus. How can I be checked out to know if I have it or not?
+- i am having signs of covid 19. How can I test to see if I i am healthy?
+- i am seeing signs of covid 19. How can I test to see if I I should self isolate?
+- i am seeing symptoms of covid 19. How can I be tested to know if I have it?
+- i am sensing signs of rona. How can I be tested to confirm if I i am well as i think?
+- i am sensing symptoms of coronvirus. How can I get tested to make sure if I I should stay away from home?
+- i am sensing symptoms of rona. How can I be checked out to be sure if I I should stay away from home?
+- i'm experiencing signs of rona. How can I be checked out to confirm if I If i should keep indoors?
+- i'm feeling signs of corona. How can I test to be sure if I i am healthy?
+- i'm feeling signs of rona. How can I test to understand if I have it or not?
+- i'm feeling signs of rona. How can I test to verify if I i am well as i think?
+- i'm feeling symptoms of corona. How can I be tested to know if I I should stay away from home?
+- i'm getting signs of corona. How can I be tested to make sure if I If i should keep indoors?
+- i'm getting signs of covid 19. How can I be checked out to verify if I have it?
+- i'm getting symptoms of rona. How can I get tested to know if I have it or not?
+- i'm seeing signs of covid 19. How can I be checked out to know if I i am healthy?
+- i'm sensing symptoms of corona. How can I test to see if I i am well as i think?
+- i'm sensing symptoms of coronvirus. How can I test to be sure if I i am well as i think?
+
+## intent: Generic
+- Boss do I have that covid 19
+- Do I have that corona
+- Do I have that coronvirus
+- Do I have that covid 19
+- Do I have that rona
+- Doc do I have that coronvirus
+- Doc do I have that rona
+- Doctor do I have that corona
+- Doctor do I have that covid 19
+- Good afternoon could the risk of me catching this, be high
+- Goodevening could the chances of us picking up this, be high
+- Goodevening do you think the risk of me contracting this, be very likely
+- Greetings can i the probability of us catching this, be very likely
+- Hello do you think the risk of us getting this, be very likely
+- Hello is it possible that the possibility of us getting this, be very likely
+- Hey can i the risk of me catching this, be very likely
+- Hey could the probability of me picking up this, be very likely
+- Hey manor can i the possibility of me contracting this, be high
+- Hey manor can i the probability of me contracting this, be very likely
+- Hey manor could the probability of me getting this, be very likely
+- Hey manor is it possible that the chances of me getting this, be high
+- Hey manor is it possible that the chances of us catching this, be very high
+- Hi can i the chances of us picking up this, be very high
+- How are things? can i the chances of us getting this, be very likely
+- How are things? should the possibility of me picking up this, be very high
+- How are you doing? could the chances of me getting this, be high
+- How are you doing? should the risk of me getting this, be very high
+- How's it going? could the probability of me contracting this, be very high
+- How's life? can i the probability of me getting this, be very high
+- How's life? could the chances of us catching this, be very high
+- How's life? is it possible that the risk of me catching this, be high
+- How's your day going? do you think the chances of us catching this, be very likely
+- How's your day going? should the probability of me picking up this, be high
+- How's your day? could the chances of us contracting this, be very likely
+- How's your day? is it possible that the possibility of me picking up this, be high
+- Howdy is it possible that the chances of us contracting this, be high
+- Ma do I have that coronvirus
+- Ma do I have that covid 19
+- Ma do I have that rona
+- Madam do I have that rona
+- Nursy do I have that corona
+- Nursy do I have that coronvirus
+- Salutations can i the chances of us picking up this, be very high
+- Sir do I have that corona
+- Sir do I have that covid 19
+- Sir do I have that rona
+- Top of the morning could the probability of me getting this, be very high
+- Top of the morning should the probability of me picking up this, be high
+- What's going on? do you think the probability of me catching this, be very high
+- What's new? can i the probability of me contracting this, be very high
+- What's new? can i the risk of us contracting this, be very likely
+- What's new? could the chances of us catching this, be very high
+- What's new? could the possibility of me getting this, be very high
+- What's new? is it possible that the risk of us catching this, be very likely
+- What's new? should the chances of me getting this, be very likely
+- What's up? do you think the probability of me catching this, be high
+- What's up? do you think the risk of me catching this, be very high
+- do I have that corona
+- do I have that coronvirus
+- do I have that covid 19
+- do I have that rona
+- doc do I have that corona
+- doctor do I have that covid 19
+- good afternoon could the possibility of us getting this, be very likely
+- goodmorning could the possibility of me contracting this, be very likely
+- goodmorning is it possible that the risk of us catching this, be very likely
+- greetings could the chances of me getting this, be high
+- greetings should the probability of me catching this, be very high
+- hello could the chances of me picking up this, be very high
+- hello do you think the probability of me getting this, be very high
+- hello should the chances of us catching this, be very high
+- hey manor could the chances of me catching this, be very likely
+- hi can i the probability of us contracting this, be high
+- hi can i the risk of us contracting this, be very likely
+- hi could the chances of me picking up this, be high
+- hi is it possible that the chances of me picking up this, be very high
+- hi should the risk of us getting this, be high
+- how are things? could the risk of us getting this, be very high
+- how are things? is it possible that the risk of me getting this, be high
+- how are you doing? is it possible that the probability of us picking up this, be very likely
+- how's everything? could the possibility of us contracting this, be high
+- how's everything? should the chances of me catching this, be high
+- how's it going? is it possible that the chances of me contracting this, be very likely
+- how's your day going? is it possible that the possibility of me contracting this, be high
+- how's your day going? should the possibility of me catching this, be high
+- how's your day? can i the chances of me getting this, be very likely
+- how's your day? could the risk of me catching this, be very high
+- how's your day? is it possible that the chances of us picking up this, be very high
+- ma do I have that covid 19
+- madam do I have that corona
+- morning is it possible that the probability of us contracting this, be very high
+- nursy do I have that corona
+- nursy do I have that covid 19
+- salutations could the chances of me catching this, be very high
+- salutations is it possible that the probability of me getting this, be very high
+- top of the morning could the risk of me getting this, be very likely
+- what's going on? do you think the risk of us picking up this, be very likely
+- what's new? could the probability of us getting this, be high
+- what's new? do you think the risk of me getting this, be very likely
+- what's up? can i the risk of me picking up this, be very high
+
+

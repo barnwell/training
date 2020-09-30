@@ -23,7 +23,7 @@ def generate_chatette_tests():
     if not os.path.isdir(aivc_tests_directory):
         os.mkdir(aivc_tests_directory)
     for chatette_plan in chatette_plans:
-        output_filename = chatette_plan.replace('.chatette', '') + '.md'
+        output_filename = chatette_plan.replace('.chatette', '') + '.txt'
         os.system(
             'python3 -m chatette -f ' +
             ' -s ' + random_seed +
