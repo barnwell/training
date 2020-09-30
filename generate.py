@@ -69,6 +69,7 @@ def load_file(file):
 		remove_line_one=re.sub("<! Generated using Chatette v1.6.2 >", name_of_file, remove_critical)
 		edited_contents = remove_line_one	
 		#print(edited_contents)
+
 	#write to json
 	data1 = {}
 	data1['clf_test_utterances'] = []
@@ -92,16 +93,17 @@ def load_file(file):
 	with open('data2.json', 'w') as outfile:
 	    json.dump(data2, outfile)	
 
-
-
+#list of files to be sent to Json file
 def list_of_files():
 	path = '/mnt/c/Users/KVHoy/onedrive/desktop/chatette/aivc-tests/baseline'
 	files = os.listdir(path)
 	for f in files:
 		print(f)
 
-list_of_files()	
+	
+#send list of files to loaded files for Json function
+def loaded_files():
+	loaded_files = list_of_files
+	
 
-loaded_files = list_of_files
-
-loadfile(loaded_files)
+loaded_files()
