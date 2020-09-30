@@ -46,13 +46,7 @@ data2['testing Suit'].append({
 
 })
 
-#print(data2)
+#this will write to json file
 with open('data2.json', 'w') as outfile:
-    json.dump(data, outfile)	
-
-
-#replace the content unwanted contents of text file
-#repeat for all txt files
-
-#convert to json
+    json.dump(data2, outfile)	
 
