@@ -12,8 +12,8 @@ def list_of_files():
 	path = '/mnt/c/Users/KVHoy/onedrive/desktop/chatette/aivc-tests/baseline'
 	files = os.listdir(path)
 	for f in files:
-		print(f)
-		#return(f)
+		#print(f)
+		return(files)
 
 def load_file(filename):
 	loadfile = open("aivc-tests/baseline/"+ filename, "r")
@@ -31,41 +31,49 @@ def load_file(filename):
 		remove_colan =re.sub(":", "", remove_intent)
 		remove_generic =re.sub("Generic", "", remove_colan)
 		remove_critical =re.sub("critical", "", remove_generic)
-		remove_line_one=re.sub("<! Generated using Chatette v1.6.2 >", name_of_file, remove_critical)
+		remove_line_one=re.sub("<! Generated using Chatette v1.6.2 >", "", remove_critical)
 		edited_contents = remove_line_one	
 		#print(edited_contents)
-		return(edited_contents)
+		#return(edited_contents)
 
-def write_to_json():
-	#write to json
+
 	data1 = {}
 	data1['clf_test_utterances'] = []
-
 	data1['clf_test_utterances'].append({
 		name_of_file: edited_contents
 	 })
-	data2= {}
+	# data2 = {}
+	# data2['testing Suit'] = []
+	# data2['testing Suit'].append({
+	#     'Name': 'test',
+	#     'Description': 'this is just a test',
+	#     'Test Dialogue': '',
+	#     "format_version": 5,
+	#     "clf_test_utterances": data1
+	# })
+	
+	data2 = {}
 	data2['testing Suit'] = []
-
 	data2['testing Suit'].append({
 	    'Name': 'test',
 	    'Description': 'this is just a test',
 	    'Test Dialogue': '',
 	    "format_version": 5,
 	    "clf_test_utterances": data1
-
 	})
-
+	
 	#this will write to json file
 	with open('data2.json', 'w') as outfile:
-	    json.dump(data2, outfile)	
+	    json.dump(data2, outfile)
+	
 
 
-# load_file()
 
 listoffile = list_of_files()
 
-for txt in listoffile:
-    for i in list_of_files():
-        if i.endswith(".xlsx"):
-            load_file(txt)
+
+for i in list_of_files():
+    if i.endswith(".txt"):
+    	load_file(i)
+    
+
